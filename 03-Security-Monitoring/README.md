@@ -1,3 +1,5 @@
+```python
+```markdown
 # Project 3: Security Monitoring & Incident Response
 
 ## Objective
